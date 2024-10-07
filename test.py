@@ -220,5 +220,5 @@ from sys import setswitchinterval
 # print("Данные ккорректны")
 #Задания№4
 
-
+print(dsdsd)
 
